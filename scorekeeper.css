@@ -1,3 +1,37 @@
+body {
+	background: #98AFC7;
+	font-family: Russo One;
+}
+
 .winner {
 	color: green;
+}
+
+.header {
+	margin: 0 auto;
+	text-align: center;
+	font-size: 200%;
+}
+
+.container {
+	text-align: center;
+	font-size: 200%;
+}
+
+button {
+	font-family: Russo One;
+	font-size: 50%;
+	background: #C7B097;
+	padding: 10px 20px;
+	outline: none;
+}
+
+input[type="number"] {
+	color: #526981;
+	width: 50%;
+	height: 30px;
+	text-align: center;
+	margin-bottom: 20px;
+	font-size: 50%;
+	font-weight: bold;
 }
